@@ -22,7 +22,7 @@
 -  (1) Broche para Pila
 -  (2) Caimanes o Clips
 
-### _Contenidos básicos_  
+### _Contenidos básicos._  
 1. Voltaje.
 2. Corriente.
 3. Resistencia.
