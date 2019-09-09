@@ -17,14 +17,12 @@
 -  (1) Capacitor de 330 uF / 20 Volts
 -  (5) LEDs de cualquier color
 -  (1) Metro de cable del número 20, de cada color: Rojo, Negro, Azul y Amarillo
--  (1) tablilla Prototipo (Proboard)
+-  (1) Tablilla para Prototipos Electrónicos (Proboard)
 -  (1) Pila cuadrada, de 9 Volts
 -  (1) Broche para Pila
 -  (2) Caimanes o Clips
 
 ### _Contenidos básicos_  
-
-
 1. Voltaje.
 2. Corriente.
 3. Resistencia.
