@@ -1,8 +1,7 @@
-Curso – Taller Introductorio a Arduino
-
-Para impartirse en planteles de enseñanza media superior (Preparatorias, Telebachilleratos,  Preparatoria Juárez, el día jueves 29, por la tarde, de 15:30 a 17:50 horas. Características:
-
-- Los alumnos que participen cuentan con sus tarjetas Arduino (verificar el modelo para tener a la mano los “drivers”), cables y computadoras. La sesión se imparte por la tarde, de las 16:00 a las 18:00 horas.
+# Curso – Taller Introductorio a Arduino  
+## Para impartirse en planteles de enseñanza media superior (Preparatorias, Telebachilleratos, CEBETIs, entre otras.)  
+## Características:  
+### - Los alumnos que participen cuentan con sus tarjetas Arduino (verificar el modelo para tener a la mano los “drivers”), cables y computadoras. La sesión se imparte por la tarde, de las 16:00 a las 18:00 horas.
 
 1. Instalación del IDE de Arduino en computadoras con SO Windows, de preferencia Windows 10.
 Verificar que sea la última versión.
